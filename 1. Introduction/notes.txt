@@ -1,0 +1,15 @@
+Browser API
+    1. Manipulating DOM
+    2. Client-side storage
+    3. drawing and manipulating graphics
+    4. audio and video APIs
+    5. Device APIs (Notification, Vibration, etc)
+    6. Fetching data from server
+
+Third Party APIs
+    1. Signup/Signin
+    2. Google Maps
+    3. Youtube Video Embedding
+    4. Tweets/Post Embedding (Twitter)
+    5. Datas from various endpoints
+    6. More and more...
