@@ -1,0 +1,29 @@
+AJAX - Asynchronous Javascript And XML
+
+At past time XML method used for API req now JSON is used
+
+const Obj = {
+    name = "Soma Name",
+    age = 20
+}
+
+the above snippet is example of pure form of JS object
+
+{
+    "data" = [{}, {}, {}, "hello"],
+    "data1" = "helo world"
+    "data2" = 10
+}
+
+the above snippet is example of JSON
+
+note: 1. the key of JSON must have double quotes 2. comments are not allowed in JSON.
+
+inside JSON the value can be of String, Array, Number, Object
+
+
+Things to remember in XMLreq
+    1. Status
+    2. response
+    3. readyState
+    4. onreadystatechange
