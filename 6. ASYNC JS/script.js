@@ -1,4 +1,4 @@
-/* Synchronous JS
+// Synchronous JS
 
 console.log("Start");
 
@@ -7,8 +7,6 @@ for( i = 0; i < 5000; i++) {
 }
 
 console.log("End");
-*/
-
 
 // Asynchronous JS
 
