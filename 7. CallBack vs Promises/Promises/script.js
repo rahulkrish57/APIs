@@ -49,6 +49,9 @@ loginUser("abc@gmail.com", "12345")
     .then(function(posts) {
         console.log(posts);
     })
+    .catch(function(error) {
+        console.log(error);
+    })
         
 /* output
 start
