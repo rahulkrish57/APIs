@@ -1,0 +1,12 @@
+Fetch API
+
+* Promise
+    1. .then()  .catch()
+    2. try   catch -> async await
+
+* Status Codes --- 100 - 599
+	100 - 199 -> Informational responses..
+	200 - 299 -> Successful responses.. 
+	300 - 399 -> Redirect.. 
+	400 - 499 -> Client side errors..
+	500 - 599 -> Server side errors.. 
