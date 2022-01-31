@@ -18,7 +18,7 @@ fetch(apiUrl, {
 .catch(function (err) {
     console.log(err.message);
 });
-
+//--------------------------------------------------------------------------------------
 //2. try   catch -> async await
 
 //const apiUrl = "https://jsonplaceholder.typicode.com/users"
