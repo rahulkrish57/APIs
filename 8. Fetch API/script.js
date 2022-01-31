@@ -44,7 +44,7 @@ var fixerUrl = "http://data.fixer.io/api/latest?access_key=52812b188af07aae7e2b6
 
 // using normal function
 
-/*
+
 fetch(apiUrl)
     .then(function (response) {
        return response.json();
@@ -65,10 +65,10 @@ fetch(apiUrl)
     .catch(function (error) {
         console.log(error);
     })
-*/
+
 
 // using arrow function
-/*
+
    fetch(apiUrl)
     .then((response) => response.json())
     .then((data) => {
@@ -83,7 +83,7 @@ fetch(apiUrl)
         console.log(data1);
     })
     .catch( (error) => console.log(error))
-*/
+
     //async await
 
     async function foo(){
